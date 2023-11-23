@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+
+* {
+    color: white (15, 1, 1);
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color:none;
+
+  }
+
+  li, a, button {
+    font-family: "oswald", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(16, 1, 1);
+    text-decoration: none;
+
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+    background-color: green
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 10%;
+  }
+  
+  .body {
+    background-color:rgb(230, 218, 218);
+    position:relative ;
+  }
+  
+  .container{
+    background-color:rgb(255, 255, 255);
+    height: 700px;px;
+    position: relative;
+  }
+  
+  .box{
+    border:2px solid rgb(1, 11, 15);
+    padding: 70px;
+    text-align: center;
+    max: width 600px;10px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+  }
+
+  .box2{
+    border:2px solid rgb(0, 5, 6);
+    padding:15px;
+    text-align: left;
+    max: width 600px;px;
+    position: relative;
+    top: 10px;px;
+    left: 10px;px;
+  }
+
+  .box3{
+    border:2px solid rgb(0, 9, 12);
+    padding:15px;
+    text-align: left;
+    max: width 600px;px;
+    position: relative;
+    top: 10px;px;
+    left:10px;
+  }
+
+  .box4{
+    border:2px solid rgb(0, 4, 5);
+    padding:15px;
+    text-align: left;
+    max: width 600px;px;
+    position: relative;
+    top: 10px;px;
+    left: 10px;px;
+  }
+
+  .box5{
+    border:2px solid rgb(1, 18, 24);
+    padding:15px;
+    text-align: left;
+    max: width 600px;px;
+    position: relative;
+    top: 10px;px;
+    left:10px;
+  }
+  
+  
+  .btm-rght{
+    top:unset;
+    left:unset;
+    bottom: 50px;px;
+    right: 50px;x;
+  }
